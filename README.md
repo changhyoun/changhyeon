@@ -1,9 +1,11 @@
 # changhyeon
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=hellomdas%&section=header&reversal=false&textBg=false&fontAlign=50&scale-animation=fadeIn&rotate=0&descAlign=50&fontSize=40" />
-
 <div align="center">
-  <img style="transform:scale(1.5)" src="https://github.com/changhyoun/changhyeon/assets/141309121/e58edde9-db2c-47d1-a0a1-892e02d30684" />
+  
+  <img src="https://github.com/changhyoun/changhyeon/assets/141309121/1a80d1a2-ecea-45c1-9d7a-454db5a19b4e" />
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=3000&color=F7F7F7&random=false&width=270&lines=Thanks+for+watching+%3A)" alt="Typing SVG" /></a>
+  
+  
   <div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -30,10 +32,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -41,8 +40,10 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+
+ 
 </div>
 
 <br>
@@ -57,32 +58,37 @@
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20illustrator-08253c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f79500" />&nbsp
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />&nbsp  
 </div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+<a href="mailto:메일@주소>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+  
+<a href="https://www.instagram.com/changhyeo_.n"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/changhyeo_.n"/></a>
+  <a href="https://www.notion.so/6681cf5058ad47d88a218527c6df4dc8"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
   </div>
+<br/>  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanghyoun&count_bg=%234C4D4A&title_bg=%234C985D&icon=hipchat.svg&icon_color=%23FFFFFF&title=Person&edge_flat=false"/></a>
+
+
 </div>
 
-<br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=3000&color=F7F7F7&random=false&width=270&lines=Thanks+for+watching+%3A)" alt="Typing SVG" /></a>
+
+
 
