@@ -1,4 +1,4 @@
 # changhyeon
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img style="width: 100vw; height: 300px;" src="https://github.com/changhyoun/changhyeon/assets/141309121/e58edde9-db2c-47d1-a0a1-892e02d30684" />
 </div>
