@@ -1,6 +1,6 @@
 # changhyeon
 
-<img style="scale:1.5;" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=hello%&section=header&reversal=false&textBg=false&fontAlign=50&scale-animation=fadeIn&rotate=0&descAlign=50&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=hellomdas%&section=header&reversal=false&textBg=false&fontAlign=50&scale-animation=fadeIn&rotate=0&descAlign=50&fontSize=40" />
 
 <div align="center">
   <img style="transform:scale(1.5)" src="https://github.com/changhyoun/changhyeon/assets/141309121/e58edde9-db2c-47d1-a0a1-892e02d30684" />
