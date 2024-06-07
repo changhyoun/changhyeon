@@ -77,14 +77,16 @@
 <a href="mailto:메일@주소>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-  
+<a href="https://velog.io/@kch5780">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+</a>
 <a href="https://www.instagram.com/changhyeo_.n"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/changhyeo_.n"/></a>
   <a href="https://www.notion.so/6681cf5058ad47d88a218527c6df4dc8"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
   </div>
 <br/>  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanghyoun&count_bg=%234C4D4A&title_bg=%234C985D&icon=hipchat.svg&icon_color=%23FFFFFF&title=Person&edge_flat=false"/></a>
+
 
 
 </div>
